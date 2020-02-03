@@ -249,11 +249,10 @@
         },
         "platformshconfig": {
             "hashes": [
-                "sha256:d285702d2c1344fa1ae333356ae717fe102c7ac7cf61edd15d294e56e004839a",
-                "sha256:effa9e10ac22cd641f0f4f618eb4c02307a43caa1b7c6dda86b3344bcd246f3d"
+                "sha256:7a7fccc1eaebb255527a5875e85ac71c6f85a67576a9bd0f69df8078d1094319",
+                "sha256:7c44af99c8bce6c4b0fc4780f5156d2109500d2ef78f558c96622f77e71a0744"
             ],
-            "index": "pypi",
-            "version": "==2.2.3"
+            "version": "==2.3.1"
         },
         "pytz": {
             "hashes": [
