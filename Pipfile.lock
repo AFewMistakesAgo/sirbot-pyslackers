@@ -42,11 +42,10 @@
         },
         "aiohttp-xmlrpc": {
             "hashes": [
-                "sha256:55fd33e4a63587f08e5d861aadaf5b852bb97ac42971bd162241eda44aee7a16",
-                "sha256:9801de2b707b29967d6f3f4b60f8f6b4064619c49c59337395e5fa0a84cb424e"
+                "sha256:a28bc5f16a39766860d985467d25e865290c7a3b4c94bc779c8cb5167183e52e",
+                "sha256:b42d453c137077bc4bd1b1ab0c0a9d8b0bda9b9d456af07ecab4647538e42d0f"
             ],
-            "index": "pypi",
-            "version": "==0.7.4"
+            "version": "==0.8.1"
         },
         "apscheduler": {
             "hashes": [
