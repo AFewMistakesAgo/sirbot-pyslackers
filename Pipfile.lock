@@ -181,11 +181,10 @@
         },
         "gidgethub": {
             "hashes": [
-                "sha256:52119435ba73ddd5e697dae7bec8b93a048bc738720b81691ebd4b4d81d2d762",
-                "sha256:a6f9ac2300cc9d88c3523ef9a5acff022c9f6b5615e4b969e679bc819757646e"
+                "sha256:3692d2df48a23c87ec4a5e74053ce343bc59cea7c34488a9136754a35aeb177a",
+                "sha256:4a456758a5fc8bfd581f297df90f2d09efbb830ccd209b1ceba4723705607d70"
             ],
-            "index": "pypi",
-            "version": "==3.1.0"
+            "version": "==3.3.0"
         },
         "idna": {
             "hashes": [
